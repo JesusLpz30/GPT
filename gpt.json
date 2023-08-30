@@ -1,0 +1,20 @@
+[
+  {
+    "Fecha": "22 jul",
+    "Paciente": "SINUHE CONTRERAS AGUILAR",
+    "Estado": "RECIBIDA",
+    "Monto": "$11,462.66"
+  },
+  {
+    "Fecha": "24 jul",
+    "Paciente": "JOSE LUIS VALENCIA CUELLAR",
+    "Estado": "RECIBIDA",
+    "Monto": "$3,055.35"
+  },
+  {
+    "Fecha": "24 jul",
+    "Paciente": "RICARDO CABRILLA TORRES",
+    "Estado": "PENDIENTE",
+    "Monto": "$2,700.00"
+  }
+]
